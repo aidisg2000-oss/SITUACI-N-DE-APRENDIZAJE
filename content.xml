@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260428102845NXVKPU</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260428102845IIX1VQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Descripción de la situación de aprendizaje.&lt;br&gt;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777364714820</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moid271b-g3vz5nbx1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moid271b-g3vz5nbx1</odePageId>
+      <odeBlockId>20260427102908UHKYTO</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moid271b-g3vz5nbx1</odePageId>
+      <odeBlockId>20260427102908SWPWAL</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moid271b-g3vz5nbx1</odePageId>
+          <odeBlockId>20260427102908SWPWAL</odeBlockId>
+          <odeIdeviceId>20260420123421606O27</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>El alumnado de 3.º de Primaria se convierte en un equipo de “Guardianes de los cuentos tradicionales” que deberá investigar y descubrir cuentos populares y tradicionales conocidos, como Caperucita Roja, Los tres cerditos, Blancanieves o Hansel y Gretel. Tras leer, comprender y seleccionar la información más importante, crearán dos productos digitales:</p>
+<p>Infografía sencilla e interactiva explicando las características de un cuento tradicional (personajes, escenario, inicio, nudo, desenlace y moraleja), incorporando como elementos interactivos audios de lectura, imágenes o pequeños vídeos relacionados con los cuentos trabajados.</p>
+<p>Juego tipo quiz en Wordwall, para enseñar a otras aulas lo aprendido sobre los cuentos tradicionales de una forma lúdica y participativa.</p>
+<p>Etapa educativa y nivel al que se dirige: 3.º de Educación Primaria.</p>
+<p>Área principal: Lengua Castellana y Literatura.</p>
+<p>Agrupamientos y organización espacial: Individual, pequeño grupo y gran grupo.</p>
+<p>Temporalización: 6 sesiones.</p>
+<p>Productos a desarrollar:</p>
+<p>Infografía digital e interactiva sobre las características de los cuentos tradicionales.<br>Videojuego sencillo tipo quiz, ruleta o emparejamiento en Wordwall.<br>Presentación oral del trabajo al grupo-clase.<br>Herramientas tecnológicas principales utilizadas: Canva, Genially o PowerPoint, a elección del alumnado, para el primer producto, y Wordwall para el segundo.</p>
+<p>Otros recursos empleados: TEAMS, cuentos tradicionales en formato digital o impreso, vídeos educativos, tutoriales de YouTube, biblioteca de aula, libro de texto digital y recursos manipulativos.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260420123421606O27","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado de 3.º de Primaria se convierte en un equipo de “Guardianes de los cuentos tradicionales” que deberá investigar y descubrir cuentos populares y tradicionales conocidos, como Caperucita Roja, Los tres cerditos, Blancanieves o Hansel y Gretel. Tras leer, comprender y seleccionar la información más importante, crearán dos productos digitales:</p>\n<p>Infografía sencilla e interactiva explicando las características de un cuento tradicional (personajes, escenario, inicio, nudo, desenlace y moraleja), incorporando como elementos interactivos audios de lectura, imágenes o pequeños vídeos relacionados con los cuentos trabajados.</p>\n<p>Juego tipo quiz en Wordwall, para enseñar a otras aulas lo aprendido sobre los cuentos tradicionales de una forma lúdica y participativa.</p>\n<p>Etapa educativa y nivel al que se dirige: 3.º de Educación Primaria.</p>\n<p>Área principal: Lengua Castellana y Literatura.</p>\n<p>Agrupamientos y organización espacial: Individual, pequeño grupo y gran grupo.</p>\n<p>Temporalización: 6 sesiones.</p>\n<p>Productos a desarrollar:</p>\n<p>Infografía digital e interactiva sobre las características de los cuentos tradicionales.<br />Videojuego sencillo tipo quiz, ruleta o emparejamiento en Wordwall.<br />Presentación oral del trabajo al grupo-clase.<br />Herramientas tecnológicas principales utilizadas: Canva, Genially o PowerPoint, a elección del alumnado, para el primer producto, y Wordwall para el segundo.</p>\n<p>Otros recursos empleados: TEAMS, cuentos tradicionales en formato digital o impreso, vídeos educativos, tutoriales de YouTube, biblioteca de aula, libro de texto digital y recursos manipulativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moid271i-fa9zre4gr</odePageId>
+  <odeParentPageId>page-moid271b-g3vz5nbx1</odeParentPageId>
+  <pageName>1. INTENCIÓN EDUCATIVA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moid271i-fa9zre4gr</odePageId>
+      <odeBlockId>20260427102908ONRTCT</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moid271i-fa9zre4gr</odePageId>
+          <odeBlockId>20260427102908ONRTCT</odeBlockId>
+          <odeIdeviceId>20260420123748168T04</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>Justificación de su desarrollo y el impacto esperado</strong><br />La presente Situación de Aprendizaje pretende acercar al alumnado de 3.º de Educación Primaria al mundo de los cuentos tradicionales mediante una propuesta motivadora, creativa y vinculada al uso de herramientas digitales. Los cuentos populares forman parte del patrimonio cultural y literario, favorecen la imaginación, transmiten valores y permiten trabajar la comprensión lectora, la expresión oral y escrita y el gusto por la lectura.</p>
+<p>A través de esta propuesta, el alumnado investigará diferentes cuentos tradicionales, identificará sus elementos principales (personajes, escenario, inicio, nudo y desenlace) y transformará lo aprendido en productos digitales propios: una infografía interactiva y un juego tipo quiz en Wordwall.</p>
+<p>El impacto esperado es mejorar la competencia lingüística, la competencia digital, la creatividad, la autonomía y el trabajo cooperativo, aumentando al mismo tiempo la motivación del alumnado hacia la lectura y el aprendizaje activo.</p>
+<p style="text-align: center;"><strong>Relación de la SdA con los ODS y Retos del siglo XXI</strong><br /><strong>Objetivos de Desarrollo Sostenible (ODS)</strong><br />ODS 4. Educación de calidad: aprendizaje inclusivo, competencial y significativo.<br />ODS 5. Igualdad de género: análisis crítico de personajes y roles en los cuentos tradicionales.<br />ODS 10. Reducción de las desigualdades: atención a la diversidad y participación de todo el alumnado.<br />ODS 17. Alianzas para lograr los objetivos: trabajo cooperativo y aprendizaje compartido.<br /><strong>Retos del siglo XXI</strong><br />Analizar de manera crítica y aprovechar las oportunidades de todo tipo que ofrece la sociedad actual, en particular las de la cultura en la era digital, evaluando sus beneficios y riesgos y haciendo un uso ético y responsable que contribuya a la mejora de la calidad de vida personal y colectiva.<br /></p>
+<p style="text-align: center;">Cooperar y convivir en sociedades abiertas y cambiantes, valorando la diversidad personal y cultural como fuente de riqueza e interesándose por otras lenguas y culturas.</p>
+<p style="text-align: center;">Desarrollar las habilidades que le permitan seguir aprendiendo a lo largo de la vida, desde la confianza en el conocimiento como motor del desarrollo y la valoración crítica de los riesgos y beneficios de este último.</p>
+<p style="text-align: center;">Sentirse parte de un proyecto colectivo, tanto en el ámbito local como en el global, desarrollando empatía y generosidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260420123748168T04","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>Justificación de su desarrollo y el impacto esperado</strong><br />La presente Situación de Aprendizaje pretende acercar al alumnado de 3.º de Educación Primaria al mundo de los cuentos tradicionales mediante una propuesta motivadora, creativa y vinculada al uso de herramientas digitales. Los cuentos populares forman parte del patrimonio cultural y literario, favorecen la imaginación, transmiten valores y permiten trabajar la comprensión lectora, la expresión oral y escrita y el gusto por la lectura.</p>\n<p>A través de esta propuesta, el alumnado investigará diferentes cuentos tradicionales, identificará sus elementos principales (personajes, escenario, inicio, nudo y desenlace) y transformará lo aprendido en productos digitales propios: una infografía interactiva y un juego tipo quiz en Wordwall.</p>\n<p>El impacto esperado es mejorar la competencia lingüística, la competencia digital, la creatividad, la autonomía y el trabajo cooperativo, aumentando al mismo tiempo la motivación del alumnado hacia la lectura y el aprendizaje activo.</p>\n<p style=\"text-align: center;\"><strong>Relación de la SdA con los ODS y Retos del siglo XXI</strong><br /><strong>Objetivos de Desarrollo Sostenible (ODS)</strong><br />ODS 4. Educación de calidad: aprendizaje inclusivo, competencial y significativo.<br />ODS 5. Igualdad de género: análisis crítico de personajes y roles en los cuentos tradicionales.<br />ODS 10. Reducción de las desigualdades: atención a la diversidad y participación de todo el alumnado.<br />ODS 17. Alianzas para lograr los objetivos: trabajo cooperativo y aprendizaje compartido.<br /><strong>Retos del siglo XXI</strong><br />Analizar de manera crítica y aprovechar las oportunidades de todo tipo que ofrece la sociedad actual, en particular las de la cultura en la era digital, evaluando sus beneficios y riesgos y haciendo un uso ético y responsable que contribuya a la mejora de la calidad de vida personal y colectiva.<br /></p>\n<p style=\"text-align: center;\">Cooperar y convivir en sociedades abiertas y cambiantes, valorando la diversidad personal y cultural como fuente de riqueza e interesándose por otras lenguas y culturas.</p>\n<p style=\"text-align: center;\">Desarrollar las habilidades que le permitan seguir aprendiendo a lo largo de la vida, desde la confianza en el conocimiento como motor del desarrollo y la valoración crítica de los riesgos y beneficios de este último.</p>\n<p style=\"text-align: center;\">Sentirse parte de un proyecto colectivo, tanto en el ámbito local como en el global, desarrollando empatía y generosidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moid271j-saoc1piav</odePageId>
+  <odeParentPageId>page-moid271b-g3vz5nbx1</odeParentPageId>
+  <pageName>2. ELEMENTOS CURRICULARES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moid271j-saoc1piav</odePageId>
+      <odeBlockId>20260427102908OSNSVZ</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moid271j-saoc1piav</odePageId>
+          <odeBlockId>20260427102908OSNSVZ</odeBlockId>
+          <odeIdeviceId>20260427113243620ZHY</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: center;"><strong>Competencias clave y descriptores operativos:</strong><br><em>CCL. Competencia en Comunicación Lingüística</em><br>CCL1: Comprender e interpretar textos orales, escritos y multimodales sencillos, identificando el sentido global y la información relevante.<br>CCL2: Producir textos orales y escritos coherentes y adecuados a la situación comunicativa.</p>
+<p style="text-align: center;"><em>CD. Competencia Digital</em><br>CD1: Buscar, seleccionar y organizar información digital de forma segura y guiada.<br>CD2: Crear contenidos digitales sencillos en diferentes formatos.</p>
+<p style="text-align: center;"><em>CPSAA. Competencia Personal, Social y de Aprender a Aprender</em><br>CPSAA3: Trabajar en equipo de forma cooperativa, respetando ideas y responsabilidades.</p>
+<p style="text-align: center;"><em>CCEC. Competencia en Conciencia y Expresión Culturales</em><br>CCEC1: Reconocer y valorar manifestaciones literarias y culturales del patrimonio tradicional.</p>
+<p style="text-align: center;">&nbsp;<br><strong>Competencias específicas y criterios de evaluación relacionados:</strong><br>CE2. Comprender e interpretar textos orales y multimodales, identificando el sentido general y la información más relevante.<br>2.1. Comprender el sentido global e identificar la información más relevante de textos orales y multimodales sencillos.&nbsp;<br>CE4. Comprender e interpretar textos escritos y multimodales, reconociendo el sentido global y la información relevante.<br>4.1. Comprender el sentido global y localizar información explícita en textos escritos adecuados a la edad.</p>
+<p style="text-align: center;">&nbsp;CE5. Producir textos escritos y multimodales con corrección, creatividad y adecuación a la situación comunicativa.<br>5.1. Producir textos escritos y multimodales sencillos, con coherencia y adecuación, en distintos soportes.</p>
+<p style="text-align: center;">&nbsp;CE8. Leer obras diversas adecuadas a la edad y compartir experiencias lectoras.<br>8.1. Leer de manera acompañada textos literarios adecuados a la edad, compartiendo interpretaciones e intereses lectores.</p>
+<p style="text-align: center;"><strong>&nbsp;Saberes Básicos</strong><br>Bloque B. Comunicación<br>Comprensión y producción de textos orales, escritos y multimodales.<br>Estrategias básicas de lectura comprensiva y expresión oral.<br>Bloque C. Educación literaria<br>Lectura y análisis guiado de cuentos tradicionales.<br>Elementos básicos del cuento: personajes, espacio, inicio, nudo y desenlace.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260427113243620ZHY","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>Competencias clave y descriptores operativos:</strong><br /><em>CCL. Competencia en Comunicación Lingüística</em><br />CCL1: Comprender e interpretar textos orales, escritos y multimodales sencillos, identificando el sentido global y la información relevante.<br />CCL2: Producir textos orales y escritos coherentes y adecuados a la situación comunicativa.</p>\n<p style=\"text-align: center;\"><em>CD. Competencia Digital</em><br />CD1: Buscar, seleccionar y organizar información digital de forma segura y guiada.<br />CD2: Crear contenidos digitales sencillos en diferentes formatos.</p>\n<p style=\"text-align: center;\"><em>CPSAA. Competencia Personal, Social y de Aprender a Aprender</em><br />CPSAA3: Trabajar en equipo de forma cooperativa, respetando ideas y responsabilidades.</p>\n<p style=\"text-align: center;\"><em>CCEC. Competencia en Conciencia y Expresión Culturales</em><br />CCEC1: Reconocer y valorar manifestaciones literarias y culturales del patrimonio tradicional.</p>\n<p style=\"text-align: center;\"> <br /><strong>Competencias específicas y criterios de evaluación relacionados:</strong><br />CE2. Comprender e interpretar textos orales y multimodales, identificando el sentido general y la información más relevante.<br />2.1. Comprender el sentido global e identificar la información más relevante de textos orales y multimodales sencillos. <br />CE4. Comprender e interpretar textos escritos y multimodales, reconociendo el sentido global y la información relevante.<br />4.1. Comprender el sentido global y localizar información explícita en textos escritos adecuados a la edad.</p>\n<p style=\"text-align: center;\"> CE5. Producir textos escritos y multimodales con corrección, creatividad y adecuación a la situación comunicativa.<br />5.1. Producir textos escritos y multimodales sencillos, con coherencia y adecuación, en distintos soportes.</p>\n<p style=\"text-align: center;\"> CE8. Leer obras diversas adecuadas a la edad y compartir experiencias lectoras.<br />8.1. Leer de manera acompañada textos literarios adecuados a la edad, compartiendo interpretaciones e intereses lectores.</p>\n<p style=\"text-align: center;\"><strong> Saberes Básicos</strong><br />Bloque B. Comunicación<br />Comprensión y producción de textos orales, escritos y multimodales.<br />Estrategias básicas de lectura comprensiva y expresión oral.<br />Bloque C. Educación literaria<br />Lectura y análisis guiado de cuentos tradicionales.<br />Elementos básicos del cuento: personajes, espacio, inicio, nudo y desenlace.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moid271l-w7az3eqle</odePageId>
+  <odeParentPageId>page-moid271b-g3vz5nbx1</odeParentPageId>
+  <pageName>3.METODOLOGÍAS ACTIVAS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moid271l-w7az3eqle</odePageId>
+      <odeBlockId>20260427102908GDTPCT</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moid271l-w7az3eqle</odePageId>
+          <odeBlockId>20260427102908GDTPCT</odeBlockId>
+          <odeIdeviceId>20260427113454694XLL</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: center;"><strong>Aprendizaje Basado en Proyectos (ABP)</strong><br>El alumnado desarrolla un producto final real y significativo: una infografía digital y un juego interactivo sobre cuentos tradicionales.</p>
+<p style="text-align: center;"><strong>Aprendizaje Cooperativo</strong><br>Trabajo en pequeños grupos con reparto de roles: portavoz, lector/a, diseñador/a y coordinador/a.</p>
+<p style="text-align: center;"><strong>Gamificación</strong><br>Uso del juego como herramienta de aprendizaje mediante Wordwall, retos, puntuaciones e interacción entre grupos.</p>
+<p style="text-align: center;"><strong>Aprendizaje Basado en el Juego</strong><br>La adquisición de contenidos se realiza mediante dinámicas lúdicas que aumentan la motivación y la participación.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260427113454694XLL","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>Aprendizaje Basado en Proyectos (ABP)</strong><br />El alumnado desarrolla un producto final real y significativo: una infografía digital y un juego interactivo sobre cuentos tradicionales.</p>\n<p style=\"text-align: center;\"><strong>Aprendizaje Cooperativo</strong><br />Trabajo en pequeños grupos con reparto de roles: portavoz, lector/a, diseñador/a y coordinador/a.</p>\n<p style=\"text-align: center;\"><strong>Gamificación</strong><br />Uso del juego como herramienta de aprendizaje mediante Wordwall, retos, puntuaciones e interacción entre grupos.</p>\n<p style=\"text-align: center;\"><strong>Aprendizaje Basado en el Juego</strong><br />La adquisición de contenidos se realiza mediante dinámicas lúdicas que aumentan la motivación y la participación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moid271l-zgdrar8p5</odePageId>
+  <odeParentPageId>page-moid271b-g3vz5nbx1</odeParentPageId>
+  <pageName>4. VINCULACIÓN CON LOS PROYECTOS Y PROGRAMAS DEL CENTRO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. VINCULACIÓN CON LOS PROYECTOS Y PROGRAMAS DEL CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. VINCULACIÓN CON LOS PROYECTOS Y PROGRAMAS DEL CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. VINCULACIÓN CON LOS PROYECTOS Y PROGRAMAS DEL CENTRO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moid271l-zgdrar8p5</odePageId>
+      <odeBlockId>20260427102908PLFIFK</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moid271l-zgdrar8p5</odePageId>
+          <odeBlockId>20260427102908PLFIFK</odeBlockId>
+          <odeIdeviceId>20260427113539021BFD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: center;"><strong>PLEI (Plan de Lectura, Escritura e Investigación)</strong><br>Fomento de la lectura de cuentos tradicionales.<br>Comprensión lectora.<br>Producción escrita y búsqueda de información.<br><strong>PAD (Plan de Atención a la Diversidad)</strong><br>Adaptación de materiales y tareas.<br>Uso de apoyos visuales y andamiaje.<br>Trabajo cooperativo inclusivo.<br><strong>PDC (Plan Digital de Centro)</strong><br>Uso de herramientas digitales educativas.<br>Creación de contenidos digitales.<br>Ciudadanía digital y uso responsable de dispositivos.<br><strong>Plan de Convivencia</strong><br>Respeto de turnos.<br>Escucha activa.<br>Cooperación y resolución dialogada de conflictos.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260427113539021BFD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>PLEI (Plan de Lectura, Escritura e Investigación)</strong><br />Fomento de la lectura de cuentos tradicionales.<br />Comprensión lectora.<br />Producción escrita y búsqueda de información.<br /><strong>PAD (Plan de Atención a la Diversidad)</strong><br />Adaptación de materiales y tareas.<br />Uso de apoyos visuales y andamiaje.<br />Trabajo cooperativo inclusivo.<br /><strong>PDC (Plan Digital de Centro)</strong><br />Uso de herramientas digitales educativas.<br />Creación de contenidos digitales.<br />Ciudadanía digital y uso responsable de dispositivos.<br /><strong>Plan de Convivencia</strong><br />Respeto de turnos.<br />Escucha activa.<br />Cooperación y resolución dialogada de conflictos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moid271m-3rmkuq5t2</odePageId>
+  <odeParentPageId>page-moid271b-g3vz5nbx1</odeParentPageId>
+  <pageName>5. ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moid271m-3rmkuq5t2</odePageId>
+      <odeBlockId>20260427102908DASCMC</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moid271m-3rmkuq5t2</odePageId>
+          <odeBlockId>20260427102908DASCMC</odeBlockId>
+          <odeIdeviceId>20260427113627622RNJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</strong><br />Visita a la biblioteca escolar para conocer cuentos tradicionales.<br />Sesión de cuentacuentos en el aula.<br />Celebración del Día del Libro con lectura compartida de cuentos populares.       </p>
+<p style="text-align: center;">   Visita a la biblioteca municipal para asistir a una actividad de animación lectora o cuentacuentos.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260427113627622RNJ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES</strong><br />Visita a la biblioteca escolar para conocer cuentos tradicionales.<br />Sesión de cuentacuentos en el aula.<br />Celebración del Día del Libro con lectura compartida de cuentos populares.       </p>\n<p style=\"text-align: center;\">   Visita a la biblioteca municipal para asistir a una actividad de animación lectora o cuentacuentos.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moid271m-p8u6shqvc</odePageId>
+  <odeParentPageId>page-moid271b-g3vz5nbx1</odeParentPageId>
+  <pageName>6. ATRIBUCIÓN Y DESCARGA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moid271m-p8u6shqvc</odePageId>
+      <odeBlockId>20260427102908TQJBWH</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moid271m-p8u6shqvc</odePageId>
+          <odeBlockId>20260427102908TQJBWH</odeBlockId>
+          <odeIdeviceId>20260427113946571920</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje ha sido elaborada como Recurso Educativo Abierto (REA) y se publica bajo la licencia:</p>
+<p>Creative Commons Reconocimiento - Compartir Igual 4.0 Internacional (CC BY-SA 4.0)</p>
+<p><br /></p>
+<p>Enlace de descarga fichero: </p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260427113946571920","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje ha sido elaborada como Recurso Educativo Abierto (REA) y se publica bajo la licencia:</p>\n<p>Creative Commons Reconocimiento - Compartir Igual 4.0 Internacional (CC BY-SA 4.0)</p>\n<p><br /></p>\n<p>Enlace de descarga fichero: </p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moid271m-p8u6shqvc</odePageId>
+      <odeBlockId>block-1777364104293-hr772nlzk</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moid271m-p8u6shqvc</odePageId>
+          <odeBlockId>block-1777364104293-hr772nlzk</odeBlockId>
+          <odeIdeviceId>idevice-1777364104289-sdw4g92w6</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>General information about this educational resource</caption>
+<tbody>
+<tr>
+<th>Title</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Descripción de la situación de aprendizaje.<br></span></td>
+</tr>
+<tr>
+<th>Description</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Authorship</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>License</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">This content was created with <a href="https://exelearning.net/">eXeLearning</a>, your free and open source editor to create educational resources.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Download .elpx file</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
